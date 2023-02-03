@@ -1,0 +1,15 @@
+.active {
+    background: #000 !important;
+}
+select #ststus {
+    margin-left: 15px;
+}
+label.extra {
+    margin-left: 19px !important;
+}
+label.post_status {
+    margin-left: 18px;
+}
+select#ststus {
+    margin-left: 10px;
+}
